@@ -5,3 +5,6 @@ function greet (name = 'Mergulhador'){
 var greeting = greet('Alarico')
 
 console.log(greeting)
+
+
+ 

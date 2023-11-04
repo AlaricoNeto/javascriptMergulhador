@@ -17,5 +17,5 @@ var list = [person1, person2, person3]
 
 
     for(var person of list) {
-        console.log(person.name)
+        console.table(person.name)
     }

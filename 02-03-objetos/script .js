@@ -5,4 +5,4 @@ var person = {
 }
 person.age = 40
 
-console.log(person)
+console.table(person)
